@@ -1,3 +1,4 @@
+#Write a program that asks the user to enter a mass in medieval units: talents (leiviskä), pounds (naula), and lots (luoti). The program converts the input to full kilograms and grams and outputs the result to the user:
 talents = int(input("Enter number of talents: "))
 pounds = int(input("Enter number of pounds: "))
 lots = int(input("Enter number of lots: "))

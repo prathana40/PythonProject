@@ -1,3 +1,4 @@
+#Write a program that asks the user for three integer numbers. The program prints out the sum, product, and average of the numbers.
 num1 = int(input("Enter the first integer: "))
 num2 = int(input("Enter the second integer: "))
 num3 = int(input("Enter the third integer: "))

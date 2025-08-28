@@ -1,3 +1,4 @@
+#Write a program that draws two random combinations of numbers for a combination lock
 import random
 code3 = [random.randint(0, 9) for _ in range(3)]
 code4 = [random.randint(1, 6) for _ in range(4)]
